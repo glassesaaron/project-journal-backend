@@ -1,0 +1,8 @@
+export DATABASE_HOST=localhost
+export DATABASE_USER=postgres
+export DATABASE_PASSWORD=123
+export DATABASE_DB=project_journal
+export CORS_URL=http://localhost:3000
+export CLIENT_ID=
+export CLIENT_SECRET=
+export SESSION_SECRET=fake_secret_123
